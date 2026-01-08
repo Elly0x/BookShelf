@@ -2,7 +2,7 @@
 
 Um aplicativo móvel de gerenciamento de leitura inspirado no Skoob, com design baseado no tema Obsidian. Desenvolvido com React Native, Expo e TypeScript.
 
-## 🎨 Características
+## Características
 
 - **Design Obsidian-inspired**: Paleta de cores sofisticada com tons de roxo, cinza e branco
 - **Estante Virtual**: Organize seus livros por status (Lidos, Lendo, Desejo, Abandonados)
@@ -11,7 +11,7 @@ Um aplicativo móvel de gerenciamento de leitura inspirado no Skoob, com design 
 - **Perfil Personalizado**: Acompanhe suas estatísticas de leitura e metas
 - **Temas Light/Dark**: Suporte completo para modo claro e escuro
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 ### Frontend
 - **React Native** 0.81.5 com **Expo** ~54.0
@@ -31,7 +31,7 @@ Um aplicativo móvel de gerenciamento de leitura inspirado no Skoob, com design 
 - **JWT** via biblioteca Jose
 - **Secure Store** para armazenamento seguro de tokens
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 BookShelf1-main/
@@ -65,7 +65,7 @@ BookShelf1-main/
 └── shared/                # Tipos e utilitários compartilhados
 ```
 
-## 🚀 Como Executar
+## Como Executar
 
 ### Pré-requisitos
 
@@ -108,7 +108,7 @@ pnpm ios
 pnpm qr
 ```
 
-## 📱 Telas Principais
+## Telas Principais
 
 1. **Home / Estante**: Grid de livros com filtros por status
 2. **Explorar**: Livros em alta, recomendações e feed social
@@ -117,7 +117,7 @@ pnpm qr
 5. **Escrever Resenha**: Formulário para avaliar e resenhar livros
 6. **Adicionar Livro**: Buscar e adicionar livros à estante
 
-## 🎯 Funcionalidades Implementadas
+## Funcionalidades Implementadas
 
 ### ✅ Fase 1-10 (Completas)
 - [x] Setup e Design System
@@ -131,13 +131,13 @@ pnpm qr
 - [x] Testes e Polimento
 - [x] Entrega
 
-### 🔄 Em Desenvolvimento
+### Em Desenvolvimento
 - [ ] Busca avançada de livros (Fase 6)
 - [ ] Integração com APIs externas de livros
 - [ ] Sistema de notificações push
 - [ ] Compartilhamento social
 
-## 🧪 Testes
+## Testes
 
 ```bash
 # Executar testes
@@ -150,7 +150,7 @@ pnpm check
 pnpm lint
 ```
 
-## 📦 Build para Produção
+## Build para Produção
 
 ```bash
 # Build do servidor
@@ -162,7 +162,7 @@ pnpm start
 
 Para builds mobile (Android/iOS), consulte a [documentação do Expo](https://docs.expo.dev/build/introduction/).
 
-## 🎨 Design System
+## Design System
 
 O aplicativo utiliza um design system inspirado no Obsidian com:
 
@@ -177,7 +177,7 @@ Veja [design.md](./design.md) para detalhes completos.
 
 Este projeto é privado e destinado apenas para fins de estudo.
 
-## 👨‍💻 Desenvolvimento
+## Desenvolvimento
 
 Desenvolvido como projeto de estudo de aplicativos móveis com React Native e Expo.
 
